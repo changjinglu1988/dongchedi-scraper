@@ -1,9 +1,10 @@
-.venv/
 __pycache__/
 *.pyc
-test_output.xlsx
-page_content.html
-vehicle_data.json
-dongchedi_*.csv
-dongchedi_*.json
-dongchedi_*.xlsx
+*.pyo
+.venv/
+venv/
+env/
+*.xlsx
+.DS_Store
+.idea/
+.vscode/
